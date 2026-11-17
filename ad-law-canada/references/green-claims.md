@@ -32,5 +32,5 @@ Result: pass if a test report meets all 3 points and covers the general impressi
 ## Who enforces (for the "rule" line)
 
 - The Competition Bureau enforces green claims under the Competition Act.
-- The source has 2 statements on private enforcement. One statement says that the new private right of access lets any litigant (private citizens, public interest groups, competitors) bring a green claim to the Competition Tribunal for the same $10 million penalties. The other statement says that the new greenwashing provisions have no private right of action. Do not resolve this in the review. The level stays High either way.
+- The source has 2 statements on private enforcement. One statement says that the new private right of access lets any litigant (private citizens, public interest groups, competitors) bring a green claim to the Competition Tribunal for the same penalties. The other statement says that the new greenwashing provisions have no private right of action. Do not resolve this in the review. The level stays High either way.
 - A misleading green claim also falls under the general prohibitions. So consumers can bring a class action. There were many class actions on consumer products for misleading environmental and "natural" claims.

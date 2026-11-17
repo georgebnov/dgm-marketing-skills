@@ -4,7 +4,7 @@ Read this file at step 5 of SKILL.md. Use it to write the "rule" line of each fi
 
 ## Who enforces what
 
-- **Competition Bureau** (federal) enforces the general prohibition, the pricing tests, greenwashing, performance claims, and contest mini rules. It can ask the Competition Tribunal for up to $10 million or 3% of global gross revenue, and a rescission-style order.
+- **Competition Bureau** (federal) enforces the general prohibition, the pricing tests, greenwashing, performance claims, and contest mini rules. It can ask the Competition Tribunal for a penalty up to the greater of $10 million ($15 million for a repeat order) and 3 times the benefit, or 3% of annual worldwide gross revenue when the benefit cannot be determined, and a rescission-style order.
 - **Private access since June 2025.** Private litigants can sue for (almost) any civil false or misleading advertising if the application is in the "public interest". They do not have to prove damages. The money goes to the Receiver General. Another source statement says that the new greenwashing provisions have no private right of action.
 - **CRTC** enforces CASL (email and SMS) and telemarketing.
 - **Privacy Commissioners**: federal, Quebec, Alberta, and British Columbia. Only Alberta, Quebec, and BC have their own private-sector privacy statute. Elsewhere PIPEDA applies.

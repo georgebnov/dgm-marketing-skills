@@ -108,8 +108,8 @@ Pre-launch notes (this skill's choice): the waitlist lead is both the conversion
 Short forms on purpose, so that competitors cannot reverse-engineer the targeting.
 
 - Campaign: type plus version, for example `Conversion Campaign v1`.
-- Ad set: `Objective_Geography_Audience_Attribution`, for example `reg_us_la-vlal4_7dc1dv_v1`. The attribution part is optional.
-- Ad: `ad_set_name_short_form | copy version / asset-description_asset-copy | asset size and type | destination url`, for example `la_reg_us_vlal4-t2_v1 | dyn_v2 / list_private-dining_nines-best | img 1:1 | dest: /sub`.
+- Ad set: `Objective_Geography_Audience_Attribution`, for example `sales_ca_broad_7dc1dv_v1`. The attribution part is optional.
+- Ad: `ad_set_name_short_form | copy version / asset-description_asset-copy | asset size and type | destination url`, for example `ca_broad_v1 | copy_v2 / demo-video_save-time | vid 4:5 | dest: /pricing`.
 - UTM string. Copy it exactly. Change only `utm_content` to the ad name:
   `utm_campaign={{adset.name}}&utm_source={{site_source_name}}&utm_medium=cpm&utm_content=your_ad_name`
 

@@ -8,7 +8,7 @@ Pricing is the top enforcement priority of the Competition Bureau. There are man
 
 **Definition.** Drip pricing is an advertised price that does not include mandatory fees or other costs that are added later. Example: the first-touch ad says $10, and a $1.50 fee appears at checkout.
 
-**Case.** Cineplex charged a $1.50 online booking fee. The result was a $39 million federal consent agreement in 2024, which is on appeal. The damages were the $1.50 fee times the number of transactions in the investigation period.
+**Case.** Cineplex charged a $1.50 online booking fee. The Competition Tribunal ruled against Cineplex in 2024 and ordered a penalty of about $38.9 million. Cineplex appealed the decision. The damages were the $1.50 fee times the number of transactions in the investigation period.
 
 **Check.**
 

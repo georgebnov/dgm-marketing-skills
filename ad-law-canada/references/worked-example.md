@@ -13,7 +13,7 @@ Verdict: lawyer first: drip pricing, an unproven regular price, an untested gree
 
 1. [High] "$1.50 booking fee" added at checkout
    kind: practice
-   rule: Competition Act · drip pricing (Cineplex: $39 million consent agreement, 2024, on appeal)
+   rule: Competition Act · drip pricing (Cineplex: Competition Tribunal decision, 2024, about $38.9 million penalty, under appeal)
    result: fail
    fix: Show "$11.50" as the first price on the page, or remove the fee.
 2. [High] "Was $20"

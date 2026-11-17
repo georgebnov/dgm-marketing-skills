@@ -31,7 +31,7 @@ Personal information is information about an identifiable individual. Digital ma
 | The business does not over-collect. | Medium |
 | People have the opportunity to withdraw their consent. | Medium |
 | The business knows how its AI tools process personal information, and does not use or disclose it for other purposes. If you cannot see this: not checked, proof "a description of how each AI tool processes personal information". | Medium |
-| **Quebec automated decisions.** If the business makes automated decisions about people (for example, from an AI determination of their profile), a Quebec law requires disclosure in advance. The person must also get the opportunity to discuss it. | High if it reaches Quebec |
+| **Quebec automated decisions.** If the business makes automated decisions about people (for example, from an AI determination of their profile), Quebec law (Law 25) requires the business to tell the person that the decision was automated, no later than when it tells them the decision. The person can then submit observations to a staff member who can review the decision. | High if it reaches Quebec |
 
 ## Cookie checks
 
